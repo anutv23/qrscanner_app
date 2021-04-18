@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1056327285364",
+    "project_id": "gymqrscan",
+    "storage_bucket": "gymqrscan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056327285364:android:5279f726aed771b0cc2f21",
+        "android_client_info": {
+          "package_name": "com.example.qrscanner_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1056327285364-ku8smj8pfupk52t01se6f8et29ftc3te.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHiqiRbLsd_GFa9AUCfHAt950_yFGgP7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1056327285364-ku8smj8pfupk52t01se6f8et29ftc3te.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
